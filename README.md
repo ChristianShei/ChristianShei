@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Primer nivel
+## Segundo nivel 
+### tercer nivel
+
+**Frase en negrita**
+
+la patagonia **es fria** como una heladera
