@@ -36,4 +36,4 @@ ___casa blanca___
 vamos al [Dns de google] y es(https://dns.google/)
 
 [![Foto de Shei](https://i.postimg.cc/sfG21Xcx/IMG-20240930-WA0001.jpg)
-[![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://google.com)
+
