@@ -31,8 +31,9 @@ ___casa blanca___
 <ins> bob esponja </ins>
 
 <sub>daleee</sub>
-<sup>daleee</sup>
+<sup>daleee</sup> 
 
 vamos al [Dns de google] y es(https://dns.google/)
 
-perros ![Foto de Shei](https://photos.google.com/album/AF1QipPNj45TUZ0DF1GY0lRLif842qE4LRb3rocLj_ad/photo/AF1QipMnNJRQNTnZYGxYYfi5dXGqrMCywCw2mvr8miU5)
+![Foto de Shei](https://photos.google.com/album/AF1QipPNj45TUZ0DF1GY0lRLif842qE4LRb3rocLj_ad/photo/AF1QipMnNJRQNTnZYGxYYfi5dXGqrMCywCw2mvr8miU5)
+[![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://google.com)
