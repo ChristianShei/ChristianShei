@@ -25,4 +25,6 @@ la patagonia **es fria** como una heladera
 ***Sheila es mi bb***
 
 hola***como estas***, todo bien?
-<u> casa blanca</u>
+___casa blanca___
+
+<sub> daleee </sub>
