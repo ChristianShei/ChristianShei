@@ -27,4 +27,5 @@ la patagonia **es fria** como una heladera
 hola***como estas***, todo bien?
 ___casa blanca___
 
-daleee
+<sub>daleee</sub>
+<sup> daleee</sup>
