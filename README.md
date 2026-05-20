@@ -27,6 +27,8 @@ la patagonia **es fria** como una heladera
 hola***como estas***, todo bien?
 ___casa blanca___
 
+vamos al [Dns de google] y es(8.8.8.8)
+
 <ins> bob esponja </ins>
 
 <sub>daleee</sub>
