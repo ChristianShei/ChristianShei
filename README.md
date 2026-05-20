@@ -35,5 +35,5 @@ ___casa blanca___
 
 vamos al [Dns de google] y es(https://dns.google/)
 
-![Foto de Shei](https://photos.google.com/album/AF1QipPNj45TUZ0DF1GY0lRLif842qE4LRb3rocLj_ad/photo/AF1QipMnNJRQNTnZYGxYYfi5dXGqrMCywCw2mvr8miU5)
+[![Foto de Shei](https://photos.google.com/album/AF1QipPNj45TUZ0DF1GY0lRLif842qE4LRb3rocLj_ad/photo/AF1QipMnNJRQNTnZYGxYYfi5dXGqrMCywCw2mvr8miU5)]
 [![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg)](https://google.com)
