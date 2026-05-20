@@ -27,9 +27,12 @@ la patagonia **es fria** como una heladera
 hola***como estas***, todo bien?
 ___casa blanca___
 
-vamos al [Dns de google] y es(https://dns.google/)
 
 <ins> bob esponja </ins>
 
 <sub>daleee</sub>
 <sup>daleee</sup>
+
+vamos al [Dns de google] y es(https://dns.google/)
+
+perros [parecido a Shei] , (https://brismen.com.mx/cachorros-caniche-poodle/)
