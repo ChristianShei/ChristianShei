@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 **Frase en negrita**
 
 la patagonia **es fria** como una heladera
-__Sheila es mi bb__
+***Sheila es mi bb***
