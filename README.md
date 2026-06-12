@@ -15,25 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Primer nivel
-## Segundo nivel 
-### tercer nivel
 
-**Frase en negrita**
-
-la patagonia **es fria** como una heladera
-***Sheila es mi bb***
-
-hola***como estas***, todo bien?
-___casa blanca___
-
-
-<ins> bob esponja </ins>
-
-<sub>daleee</sub>
-<sup>daleee</sup> 
-
-vamos al [Dns de google] y es(https://dns.google/)
 
 ![Foto de Shei](https://i.postimg.cc/sfG21Xcx/IMG-20240930-WA0001.jpg)
 
